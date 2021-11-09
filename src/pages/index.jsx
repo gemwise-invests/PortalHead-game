@@ -31,7 +31,7 @@ const HomePage = () => {
   return (
     <>
       <Head>
-        <title>Flipping Cards</title>
+        <title>PortalHeads Demo</title>
         <link href="https://fonts.googleapis.com/css2?family=Lily+Script+One&display=swap" rel="stylesheet" />
         <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
       </Head>
@@ -70,12 +70,12 @@ const HomePage = () => {
 };
 
 const images = [
-  'https://images.unsplash.com/photo-1443808709349-353c8b390400?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60',
-  'https://images.unsplash.com/photo-1558980664-1db506751c6c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2250&q=80',
-  'https://images.unsplash.com/photo-1520700008388-af1981de9835?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60',
-  'https://images.unsplash.com/photo-1533134242443-d4fd215305ad?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60',
-  'https://images.unsplash.com/photo-1511189622535-dc4e159cc877?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60',
-  'https://images.unsplash.com/photo-1478293888741-aee4356f71c7?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60',
+  'https://portalheads.io/assets/images/14.png',
+  'https://portalheads.io/assets/images/15.png',
+  'https://portalheads.io/assets/images/17.png',
+  'https://portalheads.io/assets/images/19.png',
+  'https://portalheads.io/assets/images/21.png',
+  'https://portalheads.io/assets/images/22.png', 
 ];
 
 const FLIP_CARD_ANIMATION_DURATION = 600;
