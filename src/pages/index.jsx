@@ -26,6 +26,7 @@ const HomePage = () => {
 
   const handleResetGame = React.useCallback(() => {
     send('RESET_GAME');
+    allImagesRef = React.useRef(shuffleArray(duplicateArray(images)));
   }, [send]);
 
   return (
