@@ -1,8 +1,8 @@
-# LexDAO Product Map (outline)
+# PortalHeads Proof of Concept
 
 [![Open in CodeSandbox](https://img.shields.io/badge/Open%20in-CodeSandbox-blue?style=flat-square&logo=codesandbox)](http://githubbox.com/gemwise-invests/xstate-flipping-cards-game)
 
-Browse through the working groups
+Experiment with SVG graphical-interative-flow-token
 
 ## Development
 
