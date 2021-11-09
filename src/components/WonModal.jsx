@@ -9,7 +9,7 @@ export const WonModal = ({ isOpen, onBackButtonClick }) => {
       <ModalContent>
         <ModalHeader>You won</ModalHeader>
 
-        <ModalBody>Do you want to go back?</ModalBody>
+        <ModalBody>Do you want to try again?</ModalBody>
 
         <ModalFooter>
           <Button variantColor="blue" mr={3} onClick={onBackButtonClick}>
