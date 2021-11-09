@@ -1,19 +1,14 @@
-# xstate-flipping-cards-game
+# LexDAO Product Map (outline)
 
-[![Open in CodeSandbox](https://img.shields.io/badge/Open%20in-CodeSandbox-blue?style=flat-square&logo=codesandbox)](http://githubbox.com/lednhatkhanh/xstate-flipping-cards-game)
+[![Open in CodeSandbox](https://img.shields.io/badge/Open%20in-CodeSandbox-blue?style=flat-square&logo=codesandbox)](http://githubbox.com/gemwise-invests/xstate-flipping-cards-game)
 
-https://xstate-flipping-cards-game.now.sh/
-
-A flipping cards game using Xstate
+Browse through the working groups
 
 ## Development
 
-```
-yarn dev
-```
+Forked from [xstate-flipping-cards-game](https://github.com/lednhatkhanh/xstate-flipping-cards-game)
 
-Then navigate to http://localhost:3000
+<!-- Graphics from [WesNoth](https://github.com/wesnoth/wesnoth/tree/master/data/core/images/portraits) -->
+Graphics from [PortalHeads](https://portalheads.io/) -->
 
-## Icon
-
-- <div>Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
+But craziness is all mine
