@@ -12,4 +12,7 @@ Forked from [xstate-flipping-cards-game](https://github.com/lednhatkhanh/xstate-
 Graphics from [PortalHeads](https://portalheads.io/)
 
 But craziness is all mine
-* hourglass timer
+* LexDAO logo;
+* hourglass timer [TBD];
+* PortalHeads teleport [TBC];
+* dual play [TBA].
