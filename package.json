@@ -1,10 +1,10 @@
 {
-  "name": "xstate-flipping-cards-game",
-  "version": "1.0.0",
-  "author": "Khanh Le",
+  "name": "PortalHead-game",
+  "version": "0.1.0",
+  "author": "Lawrence Lau",
   "license": "MIT",
   "scripts": {
-    "dev": "next dev",
+    "dev":   "next dev",
     "build": "next build",
     "start": "next start"
   },
